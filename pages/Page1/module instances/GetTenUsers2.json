@@ -6,8 +6,18 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
-    "moduleInputs": {},
+    "inputs": {
+      "input1": ""
+    },
+    "moduleInputs": {
+      "ekrdcahzeq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ekrdcahzeq",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
     "name": "GetTenUsers2",
     "pageId": "Page1"
   }
